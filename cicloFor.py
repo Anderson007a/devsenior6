@@ -24,6 +24,8 @@ for x in range (1, 11):
     print(f"{tabla} x {x:2} = {tabla * x:2}")
 """
 
+# for anidado
+
 for i in range(1, 11):
     print("Tabla de", i)
     for j in range(1, 11):
